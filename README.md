@@ -5,4 +5,5 @@
 --It provides data for number of hospitals and beds in various states of India. 
 <br>
 --To Setup this on your machine you first need to latest version of python on your machine, intall any ide like visual studio code, install latest verion of pip, import python libraries like Tkinter(for ui), matplolib(for visulization).
+<br>
 --Tech Stack- Python, Tkinter Gui, Matplotlib. 
