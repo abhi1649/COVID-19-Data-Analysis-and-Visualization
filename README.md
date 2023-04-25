@@ -4,7 +4,7 @@
 <br>
 --It provides data for number of hospitals and beds in various states of India. 
 <br>
---To Setup this project on your machine you first need to latest version of python on your machine, intall any ide like visual studio code, install latest verion of pip, import python libraries like Tkinter(for ui), matploltlib(for visulization).
+--To Setup this project on your machine you first need to install latest version of python on your machine, intall any ide like visual studio code, install latest verion of pip, import python libraries like Tkinter(for ui), matploltlib(for visulization).
 <br>
 -- Save all the file in a folder and open that folder in visual studio code and open the file 1st.py (it is the main file) and click on run for execution.
 <br>
